@@ -2,19 +2,15 @@
 
 <h1 align="center">Latifat Yisa</h1>
 <h3 align="center">IT Business Analyst | QA & Process Improvement</h3>
-<p align="center">Ontario, Canada · latifat.yisa@gmail.com</p>
+<p align="center">Ontario, Canada · latifat.yisa@gmail.com · ISTQB CTFL</p>
 
-IT Business Analyst with 6+ years of experience across banking and fintech (Sterling Bank, Wema Bank, Accelerex Holdings, NTT Data), focused on requirements analysis, UAT, business process improvement, and change management. I translate business needs into clear requirements and test coverage, validate data with SQL, and I'm building hands-on test automation skills alongside that.
+IT Business Analyst with 6+ years across banking and fintech, focused on requirements analysis, UAT, business process improvement, and change management. I translate business needs into clear requirements and test coverage, validate data with SQL, and I'm building hands-on test automation skills alongside that.
 
 ## What I do
-- **Business Analysis** — requirements gathering, gap analysis, user stories & acceptance criteria, process documentation
-- **Quality Assurance** — UAT coordination, manual & regression testing, defect and trend analysis
-- **Change Management** — Change Advisory Board (CAB) participation, release readiness assessments, risk analysis
+- **Business Analysis** — requirements gathering, gap analysis, user stories & acceptance criteria
+- **Quality Assurance** — UAT coordination, manual & regression testing, defect analysis
+- **Change Management** — CAB participation, release readiness assessments, risk analysis
 - **Data & Reporting** — SQL validation & reconciliation, Tableau dashboards
-- **Test Automation** (in progress) — Playwright + TypeScript, see featured projects below
-
-## Certifications
-ISTQB — Certified Tester Foundation Level (CTFL)
 
 ## Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
@@ -23,20 +19,12 @@ ISTQB — Certified Tester Foundation Level (CTFL)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Featured Projects
 
 **[SauceDemo Playwright Framework](https://github.com/teefahh/saucedemo-playwright-framework)**
-End-to-end UI test automation framework built with Playwright + TypeScript using the Page Object Model. Covers login, product browsing, cart, and checkout, with CI running on every push via GitHub Actions.
+End-to-end UI test automation framework built with Playwright + TypeScript using the Page Object Model.
 
 **[QA Portfolio](https://github.com/teefahh/Tobby-s_QA_Portfolio)**
-Manual QA artifacts — test plans, test cases, bug reports, and test summary reports — demonstrating requirements-to-test traceability on a real application flow.
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teefahh&show_icons=true&theme=default&hide_border=true" alt="Latifat's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teefahh&layout=compact&hide_border=true" alt="Top languages" height="165">
-</p>
+Manual QA artifacts — test plans, test cases, bug reports, and test summary reports — demonstrating requirements-to-test traceability.
