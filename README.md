@@ -1,35 +1,41 @@
 <img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" width="100%">
 
-<h1 align="center">Hi, I'm Latifat (Tobby) Yisa 👋</h1>
-<h3 align="center">Software Test Engineer | QA & Test Automation</h3>
+<h1 align="center">Latifat Yisa</h1>
+<h3 align="center">IT Business Analyst | QA & Process Improvement</h3>
+<p align="center">Ontario, Canada · latifat.yisa@gmail.com</p>
 
-<p align="center">
-I test software so it doesn't break in front of your users. I build automated test frameworks, design test strategy, and dig into bugs before they reach production.
-</p>
+IT Business Analyst with 6+ years of experience across banking and fintech (Sterling Bank, Wema Bank, Accelerex Holdings, NTT Data), focused on requirements analysis, UAT, business process improvement, and change management. I translate business needs into clear requirements and test coverage, validate data with SQL, and I'm building hands-on test automation skills alongside that.
 
-- 🔭 Currently working on the **Gazelle Project**, and growing my automation portfolio in public
-- 🌱 Currently deepening my skills in **test automation** and API testing
-- 👯 Open to collaborating on projects focused on quality, reliability, and shipping bug-free products
-- 💬 Ask me about manual testing, test automation, or QA process
-- 📫 Reach me at **latifat.yisa@gmail.com**
+## What I do
+- **Business Analysis** — requirements gathering, gap analysis, user stories & acceptance criteria, process documentation
+- **Quality Assurance** — UAT coordination, manual & regression testing, defect and trend analysis
+- **Change Management** — Change Advisory Board (CAB) participation, release readiness assessments, risk analysis
+- **Data & Reporting** — SQL validation & reconciliation, Tableau dashboards
+- **Test Automation** (in progress) — Playwright + TypeScript, see featured projects below
 
-## 🛠 Tech Stack
+## Certifications
+ISTQB — Certified Tester Foundation Level (CTFL)
+
+## Tech Stack
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-## 📌 Featured Projects
+## Featured Projects
 
 **[SauceDemo Playwright Framework](https://github.com/teefahh/saucedemo-playwright-framework)**
 End-to-end UI test automation framework built with Playwright + TypeScript using the Page Object Model. Covers login, product browsing, cart, and checkout, with CI running on every push via GitHub Actions.
 
 **[QA Portfolio](https://github.com/teefahh/Tobby-s_QA_Portfolio)**
-Manual QA artifacts (test plans, test cases, bug reports, and test summary reports) demonstrating end-to-end test process on a real application flow.
+Manual QA artifacts — test plans, test cases, bug reports, and test summary reports — demonstrating requirements-to-test traceability on a real application flow.
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teefahh&show_icons=true&theme=default&hide_border=true" alt="Latifat's GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teefahh&layout=compact&hide_border=true" alt="Top languages" height="165">
