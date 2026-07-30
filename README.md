@@ -15,12 +15,10 @@ I test software so it doesn't break in front of your users. I build automated te
 
 ## 🛠 Tech Stack
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## 📌 Featured Projects
@@ -29,7 +27,7 @@ I test software so it doesn't break in front of your users. I build automated te
 End-to-end UI test automation framework built with Playwright + TypeScript using the Page Object Model. Covers login, product browsing, cart, and checkout, with CI running on every push via GitHub Actions.
 
 **[QA Portfolio](https://github.com/teefahh/Tobby-s_QA_Portfolio)**
-A collection of manual test plans, bug reports, and API + UI automation samples (Playwright, Cypress, Postman) demonstrating end-to-end QA process from test planning to execution.
+Manual QA artifacts (test plans, test cases, bug reports, and test summary reports) demonstrating end-to-end test process on a real application flow.
 
 ## 📊 GitHub Stats
 <p align="center">
